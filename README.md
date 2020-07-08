@@ -28,6 +28,7 @@ after display function put this -
         lasty.push(y);
         bulletx.push(x);
         bullety.push(y);
+        // set bulletShot to false if you want to be able to auto shoot
         bulletShot = true;
         bulletInterval = 5; // the time of which you have to wait to shoot (another) a bullet after you shot one
     }
