@@ -17,7 +17,7 @@ var bulletInterval      = 0;
 
 ```
 
-after display function put this -
+any where after varibles put this -
 
 ```JavaScript
  bulletInterval -=dt;
@@ -43,7 +43,11 @@ after display function put this -
        
 
     }
+```
     
+after display function put this -
+    
+    ```JavaScript
     // display bullet(s)
     for(f=0;f<bulletx.length;f++) {
       
