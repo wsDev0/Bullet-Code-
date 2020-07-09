@@ -1,6 +1,6 @@
 # Bullet-Code-
 *******************
-Bullet code for asteroids game (this is for a friend)
+Bullet code for asteroids game
 
 
 Put this before everything (replace your other variables that have same name)
