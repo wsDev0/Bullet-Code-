@@ -2,7 +2,13 @@
 *******************
 Bullet code for asteroids game
 
+if you use this please put this in your code (not required)
+```JavaScript
+//
+```
+
 Put this before everything (replace your other variables that have same name)
+
 ```JavaScript
 //List of bullet attributes
 var lastTheta     = [];
