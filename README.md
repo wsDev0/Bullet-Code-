@@ -4,7 +4,7 @@ Bullet code for asteroids game
 
 if you use this please put this in your code (not required)
 ```JavaScript
-//
+// https://github.com/wsDev0/Bullet-Code-
 ```
 
 Put this before everything (replace your other variables that have same name)
