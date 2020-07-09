@@ -2,7 +2,6 @@
 *******************
 Bullet code for asteroids game
 
-
 Put this before everything (replace your other variables that have same name)
 ```JavaScript
 //List of bullet attributes
