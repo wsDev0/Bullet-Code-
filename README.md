@@ -12,7 +12,7 @@ var bullety       = [];
 var lastx         = [];
 var lasty         = [];
 var bulletShot    = false;
-// the interval which you can shoot bullets
+// the interval of which you can shoot bullets
 var bulletInterval      = 0;  
 
 ```
