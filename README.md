@@ -17,7 +17,7 @@ var bulletInterval      = 0;
 
 ```
 
-any where after varibles put this -
+any where after variables put this -
 
 ```JavaScript
  bulletInterval -=dt;
