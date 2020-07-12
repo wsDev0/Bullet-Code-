@@ -60,8 +60,8 @@ after display function put this -
          if(bulletx[f]<width && bulletx[f]>0 && bullety[f]<height && bullety[f]>0) {
        
           //adds the bulletx and bullety of each bullet
-          bulletx[f] += (cos(lastTheta[f])*lastx[f])*0.01 // change 0.01 to something else if you want your bullet to be faster or slower
-          bullety[f] += (sin(lastTheta[f])*lasty[f])*0.01 // change 0.01 to something else if you want your bullet to be faster or slower
+          bulletx[f] += (cos(lastTheta[f])*40) // change 40 to something else if you want your bullet to be faster or slower
+          bullety[f] += (sin(lastTheta[f])*40) // change 40 to something else if you want your bullet to be faster or slower
           drawPoint(bulletx[f], bullety[f]) // this draws the bullet with a simple point function ( you can make it something else )
          }
          // remove bullet if goes off screen (or hits astroid later)
